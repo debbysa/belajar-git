@@ -1,1 +1,8 @@
 berita kemarin
+
+content :
+- berita sepak bola
+
+- berita wisata pantai utama raya
+
+- grand opening gatherloop
